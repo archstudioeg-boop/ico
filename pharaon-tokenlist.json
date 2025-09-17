@@ -1,0 +1,42 @@
+{
+  "name": "Pharaon Token List",
+  "logoURI": "https://i.ibb.co/v6WfzK1/logo.png",
+  "keywords": ["pharaon", "phr"],
+  "timestamp": "2025-09-17T12:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x123bb7641d82381f80e33bea3bb4ca148acf6a98",
+      "name": "Pharaon",
+      "symbol": "PHR",
+      "decimals": 18,
+      "logoURI": "https://i.ibb.co/v6WfzK1/logo.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
+{
+  "name": "Pharaon Token List",
+  "logoURI": "https://i.ibb.co/v6WfzK1k/logo.png",
+  "keywords": ["pharaon", "phr"],
+  "timestamp": "2025-09-17T12:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 1,
+      "address": "0x123bb7641d82381f80e33bea3bb4ca148acf6a98",
+      "name": "Pharaon",
+      "symbol": "PHR",
+      "decimals": 18,
+      "logoURI": "https://i.ibb.co/v6WfzK1/logo.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
